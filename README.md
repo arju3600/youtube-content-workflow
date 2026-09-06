@@ -66,16 +66,20 @@ AI tools can support parts of the workflow such as:
 
 AI is used as an assistant to the creative process, while final decisions and quality control remain human-led.
 
-## 📂 Planned Resources
+## 📂 Resources
 
-This repository will gradually include:
+### Available
+
+- ✅ [YouTube Video Production Checklist](youtube-video-checklist.md)  
+  A reusable checklist covering research, planning, scripting, production, SEO, packaging, publishing, and post-publish analysis.
+
+### Planned
 
 - Research templates
-- Content planning checklists
+- Content planning templates
 - SEO checklists
-- Publishing checklists
 - Workflow documentation
-- Useful automation experiments
+- Automation experiments
 
 ## 🛠️ Project Status
 
